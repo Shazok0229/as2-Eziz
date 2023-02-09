@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSans-ExtraLight.ttf);
+  font-style: normal;
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSans-ExtraLightItalic.ttf);
+  font-style: italic;
+  font-weight: 200;
+}
+@font-face {
+  font-family:"Noto Sans";
+  src: url(../font/NotoSans-Light.ttf);
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSans-LightItalic.ttf);
+  font-style: italic;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSans-Regular.ttf);
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSans-Italic.ttf);
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSerifKhojki-SemiBold.ttf);
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSans-SemiBoldItalic.ttf);
+  font-style: italic;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSerifKhojki-Bold.ttf);
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSans-BoldItalic.ttf);
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSans-Black.ttf);
+  font-style: normal;
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../font/NotoSans-BlackItalic.ttf);
+  font-style: italic;
+  font-weight: 900;
+}
+body {
+  font-family: "Noto Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
